@@ -44,7 +44,3 @@ Boulevard Tandarosti, opposite Almas Commercial Complex
 ## Status
 
 This project is currently a **Version 1 promotional website** and can be expanded with additional features in the future.
-
-## License
-
-This project is currently for portfolio and demonstration purposes.
